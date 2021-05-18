@@ -1,0 +1,7 @@
+E:\learnIT\Module2\learnC#\SystemTime\SystemTime\bin\Debug\SystemTime.exe.config
+E:\learnIT\Module2\learnC#\SystemTime\SystemTime\bin\Debug\SystemTime.exe
+E:\learnIT\Module2\learnC#\SystemTime\SystemTime\bin\Debug\SystemTime.pdb
+E:\learnIT\Module2\learnC#\SystemTime\SystemTime\obj\Debug\SystemTime.csprojAssemblyReference.cache
+E:\learnIT\Module2\learnC#\SystemTime\SystemTime\obj\Debug\SystemTime.csproj.CoreCompileInputs.cache
+E:\learnIT\Module2\learnC#\SystemTime\SystemTime\obj\Debug\SystemTime.exe
+E:\learnIT\Module2\learnC#\SystemTime\SystemTime\obj\Debug\SystemTime.pdb
